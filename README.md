@@ -1,18 +1,57 @@
-# 💫 About Me:
-🔭 I’m currently working on my IT College Degree<br>👯 I’m looking to collaborate on Cybersecurity<br>🤝 I’m looking for help with Application Projects<br>🌱 I’m currently learning CCNA<br>💬 Ask me about Networking<br>
+# Josh Clarence R. Agulo
 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jagulo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jagulo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jagulo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://your-image-url/logo.png" alt="Josh Agulo Logo" width="120"/>
+  
+  ### Aspiring Cybersecurity Specialist
+  **Network Security & Penetration Testing**
+  
+  > *Protecting infrastructures through proactive defense and analytical testing.*
+  
+  [![Email](https://img.shields.io/badge/Email-jagulo%40addu.edu.ph-377891?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jagulo@addu.edu.ph)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jagulo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a cybersecurity enthusiast dedicated to building secure and resilient network infrastructures. Currently pursuing my CCNA Security certification while developing hands-on expertise through home lab environments focused on network penetration testing and security analysis.
+
+- 🔭 **Currently working on:** CCNA Security certification and building a home lab for network penetration testing
+- 👯 **Looking to collaborate on:** Open-source security tools, Capture The Flag (CTF) challenges, and network automation scripts
+- 🤝 **Seeking help with:** Advanced penetration testing methodologies and mastering Linux-based security environments
+- 🌱 **Currently learning:** Network defense protocols, ethical hacking techniques, and the intricacies of Cisco security architecture
+- 💬 **Ask me about:** Cybersecurity, networking basics, and my passion for feline welfare and stray cat advocacy
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="center">
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-377891?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-004D6A?style=for-the-badge&logo=javascript&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-00EE85?style=for-the-badge&logo=python&logoColor=black)
+  ![MySQL](https://img.shields.io/badge/MySQL-377891?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Cisco](https://img.shields.io/badge/Cisco_Networking-004D6A?style=for-the-badge&logo=cisco&logoColor=white)
+  
+</div>
+
+---
+
+## 📫 Get In Touch
+
+<div align="center">
+  
+  **Email:** [jagulo@addu.edu.ph](mailto:jagulo@addu.edu.ph)
+  
+  *Let's connect and collaborate on cybersecurity projects!*
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=377891&style=flat-square" alt="Profile Views"/>
+</div>
