@@ -1,7 +1,7 @@
 # Josh Clarence R. Agulo
 
 <div align="center">
-  <img src="https://your-image-url/logo.png" alt="Josh Agulo Logo" width="120"/>
+  <img src="https://github.com/user-attachments/assets/a6aeeaa5-00a5-430f-818e-661041819b4e" alt="Josh Agulo Logo" width="120"/>
   
   ### Aspiring Cybersecurity Specialist
   **Network Security & Penetration Testing**
@@ -52,6 +52,3 @@ I'm a cybersecurity enthusiast dedicated to building secure and resilient networ
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=377891&style=flat-square" alt="Profile Views"/>
-</div>
